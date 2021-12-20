@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Jan Carlos
 I'm a web developer, with a lot of love for logic and tv series
- 🌱 I’m currently learning React Native and React.js
+ 
+🌱 I’m currently learning React Native and React.js
 
 <!--
 **jan-carlos-g/jan-carlos-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
