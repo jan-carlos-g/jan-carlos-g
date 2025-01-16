@@ -25,7 +25,7 @@ Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-carlos-g&layout=compact&hide_border=true&theme=radical&langs_count=8" />
-   <img src="https://github-profile-trophy.vercel.app/?username=jan-carlos-g&theme=radical&no-frame=true&margin-w=15&title=Joined,Issues,Repositories,Commits" alt="GitHub Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=jan-carlos-g&theme=radical&no-frame=true&margin-w=15&title=Joined,Repositories,Commits" alt="GitHub Trophies" />
   <a href="https://github.com/jan-carlos-g">
     <img src="https://ghchart.rshah.org/radical/jan-carlos-g" alt="jan-carlos-g's Github Chart" />
   </a>
