@@ -24,7 +24,6 @@ Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com
 ### 📊 My GitHub Stats  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jan-carlos-g&hide_border=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-carlos-g&layout=compact&hide_border=true&theme=radical&langs_count=8" />
 </div>
 
