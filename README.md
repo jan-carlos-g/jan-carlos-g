@@ -33,7 +33,6 @@ Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com
 
 
 
-
 ---
 
 ### 🌟 Highlights  
