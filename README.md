@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Jan Carlos  
 
-🎓 **Bacharel em Ciências Exatas**  
+🎓 **Bacharel em Ciências Exatas e Técnológicas**  
 💻 **Desenvolvedor Web | Apaixonado por resolver problemas e criar soluções eficientes**  
 
 ---
 
 ### 🚀 About Me  
-Nos últimos anos, tenho me dedicado a projetos universitários desafiadores, utilizando um conjunto robusto de tecnologias para criar sistemas funcionais e inclusivos. Estou sempre em busca de novos aprendizados e adoro transformar ideias em realidade através de código.  
+Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com empresas como dev FullStack utilizando um conjunto robusto de tecnologias para criar sistemas funcionais e robustos. Estou sempre em busca de novos aprendizados e adoro transformar ideias em realidade através de código.  
 
 🌟 **Principais tecnologias e ferramentas que utilizo:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
@@ -24,7 +24,6 @@ Nos últimos anos, tenho me dedicado a projetos universitários desafiadores, ut
 ### 📊 My GitHub Stats  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jan-carlos-g&show_icons=true&hide_title=true&hide_border=true&theme=radical" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jan-carlos-g&hide_border=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-carlos-g&layout=compact&hide_border=true&theme=radical&langs_count=8" />
 </div>
