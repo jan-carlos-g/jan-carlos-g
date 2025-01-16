@@ -5,8 +5,8 @@
 
 ---
 
-### 🚀 About Me  
-Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com empresas como dev FullStack utilizando um conjunto robusto de tecnologias para criar sistemas funcionais e robustos. Estou sempre em busca de novos aprendizados e adoro transformar ideias em realidade através de código.  
+### 🚀 About Me
+Desenvolvedor FullStack com experiência em projetos acadêmicos e corporativos, focado em criar soluções eficientes e escaláveis. Apaixonado por aprender e transformar ideias em código que resolve problemas reais. 
 
 🌟 **Principais tecnologias e ferramentas que utilizo:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
@@ -34,10 +34,11 @@ Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com
 ---
 
 ### 🌟 Highlights  
-- **Sistema Inclusivo:** Desenvolvendo para o Núcleo de Políticas Inclusivas da UFRB, utilizando tecnologias modernas para gerenciar solicitações de intérpretes e psicopedagogos.  
-- **Infraestrutura Docker:** Experiência em configurar sistemas com Docker para deploys eficientes.  
-- **Banco de Dados:** Gerenciamento de dados com PostgreSQL, MySql e otimização de queries.  
-
+- **Inclusão Digital:** Desenvolvi um sistema de gestão para o NUPI, integrando tecnologias como TypeScript, MySQL e Redux para otimizar a operação.  
+- **Experiência Profissional:** Atuei como desenvolvedor na Engenhe Jr e atualmente lidero o desenvolvimento de sistemas de RH, aplicando inovação e eficiência.  
+- **Implantação com Docker:** Configuro e gerencio sistemas completos em ambientes Docker para deploys otimizados.  
+- **Banco de Dados:** Expertise em PostgreSQL, MySQL e otimização de queries complexas.  
+- **Manutenção e Inovação:** Sou responsável pela continuidade e evolução de sistemas de RH e aplicativos web remotamente.  
 ---
 
 ### 💡 Let's Collaborate!  
