@@ -25,7 +25,10 @@ Nos últimos anos, tenho me dedicado a projetos universitários, colaborando com
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-carlos-g&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jan-carlos-g&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jan-carlos-g&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
+
 
 ---
 
