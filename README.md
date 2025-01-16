@@ -24,24 +24,23 @@ Nos últimos anos, tenho me dedicado a projetos universitários desafiadores, ut
 ### 📊 My GitHub Stats  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JanCarlosDev&show_icons=true&hide_title=true&hide_border=true&theme=radical" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JanCarlosDev&hide_border=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanCarlosDev&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jan-carlos-g&show_icons=true&hide_title=true&hide_border=true&theme=radical" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jan-carlos-g&hide_border=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-carlos-g&layout=compact&hide_border=true&theme=radical&langs_count=8" />
 </div>
 
 ---
 
 ### 🌟 Highlights  
 - **Sistema Inclusivo:** Desenvolvendo para o Núcleo de Políticas Inclusivas da UFRB, utilizando tecnologias modernas para gerenciar solicitações de intérpretes e psicopedagogos.  
-- **Componentes Dinâmicos:** Criação de um **relógio de ponto** com React, integração de backend e cálculo de horas trabalhadas.  
 - **Infraestrutura Docker:** Experiência em configurar sistemas com Docker para deploys eficientes.  
-- **Banco de Dados:** Gerenciamento de dados complexos com PostgreSQL e otimização de queries.  
+- **Banco de Dados:** Gerenciamento de dados com PostgreSQL, MySql e otimização de queries.  
 
 ---
 
 ### 💡 Let's Collaborate!  
 Se você busca alguém para colaborar em projetos inovadores ou resolver desafios de desenvolvimento, estou à disposição! 🚀  
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/JanCarlos) | [Email](mailto:jan.carlos@example.com)  
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/JanCarlos) | [Email](mailto:jancarlos@aluno.ufrb.edu.br)  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/62487016/149223208-b6c3e60a-bf8d-46b6-93f6-147fa5b29f9b.gif" alt="Coding" width="400px" />
